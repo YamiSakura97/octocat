@@ -1,6 +1,6 @@
 # octocat
 # こんにちは! Kon'nichiwa! 👋  
-### I'm [Your Name], a developer who loves Japanese aesthetics. 🎌  
+### I'm YamiSakura97, a developer who loves Japanese aesthetics. 🎌  
 
 🌸 **About Me**  
 - 🔭 Working on something beautiful  
